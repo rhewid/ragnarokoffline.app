@@ -1,11 +1,13 @@
 {
   "name": "random-headgear-box",
   "author": "rhewid",
-  "description": "Every monster can drop a Random Headgear Box (0.05% by default, adjustable). Opening one gives a random headgear that nothing in the stock item database drops or sells: 417 in pre-renewal, including Snake Head and Skull Cap, and 1,207 in renewal. Works in both eras.",
+  "description": "Monsters can drop a Random Headgear Box (0.05% by default) or, with one setting, a Headgear Exchange Ticket that a Prontera NPC trades for costume boxes, one-slot headgear boxes or the Random Headgear Box. The boxes hold headgears nothing in the stock item database drops or sells: 417 in pre-renewal (Snake Head and Skull Cap among them) and 1,207 in renewal. Also includes a Costume Tailor that turns any headgear into costumes. Works in both eras.",
   "tags": [
+    "costume",
     "drops",
     "equipment",
     "headgear",
+    "npc",
     "pre-renewal",
     "renewal"
   ],
